@@ -29,8 +29,4 @@
 # Executables
 *.exe
 *.out
-<<<<<<< HEAD
 *.app
-=======
-*.app
->>>>>>> 05e41e8 (added .gitignore file)
