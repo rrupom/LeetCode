@@ -16,7 +16,7 @@ public:
 			}
 			left = right + 1;
 			right = maxReach;
-			// cout << "left and right " << left << " " << right << endl;
+			cout << "left and right " << left << " " << right << endl;
 			move++;
 		}
 
