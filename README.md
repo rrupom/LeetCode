@@ -1,3 +1,3 @@
-## Leetcode 150
+## LeetCode
 
-Top 150 interview questions from LeetCode
+LeetCode problem solving.
